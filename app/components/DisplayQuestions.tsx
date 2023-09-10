@@ -116,7 +116,7 @@ export default function DisplayQuestions({ data }: { data: Question[] }) {
       </div>
 
       <footer className='flex justify-center items-center w-full p-6'>
-        <p className='text-xs'>Made with ♡ by stargirl.codes</p>
+        <p className='text-xs'>Made with Nextjs, Tailwindcss, Sanity.io and ♡ by stargirl.codes</p>
       </footer>
     </main>
   );
